@@ -25,14 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "ProyectoIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"
-          
-
-            ],
+            "src/styles.css",
+          "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"],
             "scripts": [
-              "ProyectoIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
-             
+              
+             "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
