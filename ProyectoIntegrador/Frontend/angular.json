@@ -26,10 +26,10 @@
             ],
             "styles": [
             "src/styles.css",
-          "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"],
+          "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/Frontend/node_modules/bootstrap/dist/css/bootstrap.css"],
             "scripts": [
               
-             "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
+             "C:/Users/Máximo/Desktop/Argentina Programa/ProyectoIntegrador_PerezMaxi/ProyectoIntegrador/Frontend/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
